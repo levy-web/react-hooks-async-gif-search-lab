@@ -17,4 +17,4 @@ function NavBar({ color, title }) {
   );
 }
 
-export default NavBar;
+export default NavBar
